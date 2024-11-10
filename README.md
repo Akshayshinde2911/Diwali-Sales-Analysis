@@ -1,5 +1,7 @@
 # Diwali-Sales-Analysis
 
+![](https://github.com/Akshayshinde2911/Diwali-Sales-Analysis/blob/main/Diwali.jpg)
+
 ## Overview
 This project involves a comprehensive analysis of Diwali Sales data using Exploratory Data Analysis. The goal is to extract valuable insights from the data and identify demographic group spending state wise and product category wise.
 
