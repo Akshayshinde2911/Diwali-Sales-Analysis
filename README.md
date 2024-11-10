@@ -13,5 +13,5 @@ This project involves a comprehensive analysis of Diwali Sales data using Explor
 
 - Identify Key Growth Opportunities: Pinpoint potential growth opportunities by understanding customer preferences, emerging trends, and areas with the most significant sales increases.
 
-# Conclusion 
+## Conclusion 
 - Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
